@@ -1,4 +1,4 @@
-The current project is about trajectory prediction the dataset we use is 'MICROSOFT Geolife GPS trajectory dataset' it is a public  available dataset in kaggle.
+The current project is about trajectory prediction the dataset we use is 'MICROSOFT Geolife GPS trajectory dataset' data set is available in kaggle or you use the following link.
 "https://www.microsoft.com/en-us/research/publication/geolife-gps-trajectory-dataset-user-guide/"
 We created two bilstm models for the prediction of trajectory 
 the frist we preprocess the data and derive other features like speed, acceleration,pitch, bearing which are useful for trajectory prediction
